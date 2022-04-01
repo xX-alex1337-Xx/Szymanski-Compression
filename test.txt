@@ -1,0 +1,6 @@
+In the second of the two papers that introduced these algorithms they are analyzed as encoders defined by finite-state machines.
+A measure analogous to information entropy is developed for individual sequences (as opposed to probabilistic ensembles).
+This measure gives a bound on the data compression ratio that can be achieved.
+It is then shown that there exists finite lossless encoders for every sequence that achieve this bound as the length of the sequence grows to infinity.
+In this sense an algorithm based on this scheme produces asymptotically optimal encodings.
+This result can be proven more directly, as for example in notes by Peter Shor.
